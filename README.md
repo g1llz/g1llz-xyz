@@ -1,2 +1,2 @@
-# g1llz-xyz
+### g1llz-xyz
 my personal website/blog/resume
