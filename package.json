@@ -1,6 +1,7 @@
 {
   "name": "g1llz-xyz",
   "version": "0.1.0",
+  "description": "my personal website/blog/resume",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build"
